@@ -1,7 +1,7 @@
 👋 Hi, I’m @Nibelur aka. Firzj
 =====================================================================================================================================
-- 🌱 I’m a Freelance Frontend Developer and Translator.
-- 👀 I’m interested in HTML, CSS, JS, MySQL, Hostings, Troubleshooting, Video/Image Editing, Translating, SEO and Modding tools (maps, quests, items, scripts).
+- 🌱 I’m an EdTech Project/Content Manager.
+- 👀 I work with WordPress (Deploying, Content, Troubleshooting), create pet-projects, Video/Image Editing, SEO and Modding tools (maps, quests, items, scripts).
 - 📫 How to reach me:
 
 
@@ -25,7 +25,7 @@ Nibelar/Nibelar is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 # About Me
-I specialize in front-end development, but I also have experience with translations and video-editing. I'm passionate about building clean and user-friendly interfaces and am always looking for ways to improve my skills and stay up-to-date with the latest technologies.
+I casually create web projects. I also have experience with translations and video-editing. I'm passionate about building clean and user-friendly interfaces and am always looking for ways to improve my skills and stay up-to-date with the latest technologies. 
 
 Feel free to reach out to me via LinkedIn or email if you'd like to chat or collaborate on a project!
 
